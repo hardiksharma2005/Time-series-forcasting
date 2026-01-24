@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using Hybrid CNN-LSTM & ARIMA
+# Stock Price Prediction using Hybrid CNN-LSTM & ARIMA
 
 ##  Project Overview
 This project implements a comprehensive Time Series Analysis and Forecasting pipeline for stock market data. The goal was to compare traditional statistical methods (**ARIMA**) against modern Deep Learning architectures (**Hybrid CNN-LSTM**) to predict future stock prices with high accuracy.
